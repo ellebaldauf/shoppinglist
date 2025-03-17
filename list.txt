@@ -2,3 +2,7 @@ aepfel
 birnen
 eier
 haribo
+fanta
+brot
+mozz
+tomaten
