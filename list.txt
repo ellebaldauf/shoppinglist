@@ -10,3 +10,4 @@ mozz
 tomaten
 brokkoli
 schoki
+salat
