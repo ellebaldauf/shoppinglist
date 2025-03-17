@@ -1,4 +1,5 @@
 aepfel
+brombeeren
 orangen
 birnen
 eier
@@ -7,3 +8,5 @@ fanta
 brot
 mozz
 tomaten
+brokkoli
+schoki
