@@ -4,5 +4,12 @@ eier
 haribo
 fanta
 brot
+leberkäs
+ - normal
+ - käse
+ - chili
+
 mozz
 tomaten
+brokkoli
+schoki
