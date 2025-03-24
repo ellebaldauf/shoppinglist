@@ -1,3 +1,4 @@
+litschi
 aepfel
 drachenfrucht
 brombeeren
@@ -13,3 +14,4 @@ brokkoli
 schoki
 salat
 kekse
+kebap
