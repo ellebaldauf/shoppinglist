@@ -1,4 +1,5 @@
 litschi
+mango
 aepfel
 drachenfrucht
 brombeeren
@@ -16,4 +17,4 @@ salat
 kekse
 kebap
 eis
-ahornsirup
+
