@@ -1,6 +1,7 @@
 litschi
 mango
 aepfel
+himbeere
 drachenfrucht
 brombeeren
 orangen
