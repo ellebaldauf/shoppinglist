@@ -1,7 +1,5 @@
 litschi
-mango
-bananen
-himbeeren
+aepfel
 drachenfrucht
 brombeeren
 orangen
@@ -18,4 +16,5 @@ salat
 kekse
 kebap
 eis
-
+mango
+himbeeren
